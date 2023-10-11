@@ -1,6 +1,7 @@
 <div align="center">
-
-![Marmelasoft](./logo/marmela-blue-dark.svg)
-<!-- ![Marmelasoft](./logo/marmela-blue-light.svg) -->
-
+<picture>
+  <source media="(prefers-color-schema: dark)" srcset="/profile/logo/marmela-blue-light.svg">
+  <source media="(prefers-color-schema: light)" srcset="/logo/marmela-blue-dark.svg">
+  <img alt="marmela" src="/profile/logo/marmela-blue-dark.svg">
+</picture>
 </div>
